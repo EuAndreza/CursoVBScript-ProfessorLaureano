@@ -1,0 +1,5 @@
+MsgBox Asc("A")
+MsgBox Asc("C")
+MsgBox Asc("D")
+MsgBox Asc("E")
+MsgBox Asc("&")
