@@ -1,0 +1,10 @@
+A = Now()
+
+MsgBox FormatDateTime(A)
+MsgBox Day(A)
+MsgBox Hour(A)
+MsgBox Minute(A)
+MsgBox Month(A)
+MsgBox Second(A)
+MsgBox Weekday(A)
+MsgBox Year(A)
